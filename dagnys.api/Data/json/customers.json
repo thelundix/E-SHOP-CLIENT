@@ -1,0 +1,19 @@
+[
+    {
+      "name": "Bageri Stockholm",
+      "phone": "+46701234567",
+      "email": "kontakt@bageristockholm.se",
+      "contactPerson": "Lisa Andersson",
+      "deliveryAddress": "Sveavägen 12, 111 57 Stockholm",
+      "invoiceAddress": "Fakturavägen 45, 123 45 Stockholm"
+    },
+    {
+      "name": "Göteborgs Bageri",
+      "phone": "+46709876543",
+      "email": "kontakt@goteborgsbageri.se",
+      "contactPerson": "Anders Bergström",
+      "deliveryAddress": "Avenyn 5, 411 36 Göteborg",
+      "invoiceAddress": "Spjutvägen 10, 123 45 Göteborg"
+    }
+  ]
+  

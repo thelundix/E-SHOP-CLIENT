@@ -1,0 +1,22 @@
+[
+  {
+    "orderDate": "2025-02-12",
+    "orderNumber": "ORD-20250218123644-3c5da24e0bbfa89f9e8ecaef24",
+    "customerId": 1,
+    "orderItems": [
+      {
+        "productId": 1,
+        "productName": "Kanelbulle",
+        "quantity": 5,
+        "totalPrice": 127.50
+      },
+      {
+        "productId": 2,
+        "productName": "Semla",
+        "quantity": 3,
+        "totalPrice": 105
+      }
+    ]
+  }
+]
+  

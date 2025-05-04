@@ -1,0 +1,44 @@
+   
+   Test data [HttpPost]
+   http://localhost:5000/api/orders
+    
+{
+  "CustomerId": 3,
+  "OrderItems": [
+    {
+      "ProductId": 1,
+      "Quantity": 10
+    },
+    {
+      "ProductId": 2,
+      "Quantity": 5
+    }
+  ]
+}
+
+Test Data [HttpPost]
+
+http://localhost:5000/api/customers
+
+{
+  "name": "Ekologiska Brödverket",
+  "phone": "+46898765432",
+  "email": "order@brodverket.se",
+  "contactPerson": "Emilia Sjöberg",
+  "deliveryAddress": "Brödhuset 3, 113 45 Stockholm",
+  "invoiceAddress": "Box 7890, 101 22 Stockholm"
+}
+
+Test Data  [HttpPost]
+
+http://localhost:5000/api/products
+
+{
+    "name": "mjölk",
+    "price": 24.99,
+    "weight": 1.0,
+    "packageQuantity": 1,
+    "expiryDate": "2023-12-31",
+    "manufactureDate": "2023-12-20"
+}
+

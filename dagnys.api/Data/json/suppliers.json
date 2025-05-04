@@ -1,0 +1,26 @@
+[
+    {
+        "SupplierId": 1,
+        "Name": "Supplier A",
+        "Address": "123 Main St, City, Country",
+        "ContactPerson": "John Doe",
+        "PhoneNumber": "123-456-7890",
+        "Email": "johndoe@supplierA.com"
+    },
+    {
+        "SupplierId": 2,
+        "Name": "Supplier B",
+        "Address": "456 Elm St, City, Country",
+        "ContactPerson": "Jane Smith",
+        "PhoneNumber": "987-654-3210",
+        "Email": "janesmith@supplierB.com"
+    },
+    {
+        "SupplierId": 3,
+        "Name": "Supplier C",
+        "Address": "789 Oak St, City, Country",
+        "ContactPerson": "Alice Johnson",
+        "PhoneNumber": "555-123-4567",
+        "Email": "alicejohnson@supplierC.com"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "SupplierRawMaterialId": 1,
+        "SupplierId": 1,
+        "RawMaterialId": 1,
+        "Price": 1.40
+    },
+    {
+        "SupplierRawMaterialId": 2,
+        "SupplierId": 1,
+        "RawMaterialId": 2,
+        "Price": 1.90
+    },
+    {
+        "SupplierRawMaterialId": 3,
+        "SupplierId": 2,
+        "RawMaterialId": 1,
+        "Price": 1.55
+    },
+    {
+        "SupplierRawMaterialId": 4,
+        "SupplierId": 2,
+        "RawMaterialId": 3,
+        "Price": 3.40
+    },
+    {
+        "SupplierRawMaterialId": 5,
+        "SupplierId": 3,
+        "RawMaterialId": 2,
+        "Price": 1.95
+    },
+    {
+        "SupplierRawMaterialId": 6,
+        "SupplierId": 3,
+        "RawMaterialId": 4,
+        "Price": 4.80
+    }
+]

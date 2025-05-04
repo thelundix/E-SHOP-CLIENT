@@ -1,0 +1,22 @@
+[
+    {
+        "RawMaterialId": 1,
+        "Name": "Flour",
+        "PricePerKg": 1.50
+    },
+    {
+        "RawMaterialId": 2,
+        "Name": "Sugar",
+        "PricePerKg": 2.00
+    },
+    {
+        "RawMaterialId": 3,
+        "Name": "Butter",
+        "PricePerKg": 3.50
+    },
+    {
+        "RawMaterialId": 4,
+        "Name": "Eggs",
+        "PricePerKg": 5.00
+    }
+]

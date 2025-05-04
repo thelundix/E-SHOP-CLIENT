@@ -1,0 +1,19 @@
+[
+    {
+      "name": "Kanelbulle",
+      "price": 25.50,
+      "weight": 120,
+      "packageQuantity": 2,
+      "expiryDate": "2025-02-20",
+      "manufactureDate": "2025-02-12"
+    },
+    {
+      "name": "Semla",
+      "price": 35,
+      "weight": 150,
+      "packageQuantity": 1,
+      "expiryDate": "2025-02-18",
+      "manufactureDate": "2025-02-12"
+    }
+  ]
+  

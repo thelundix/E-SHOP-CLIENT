@@ -1,0 +1,174 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f4f4f9;
+  color: #333;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+header {
+  background-color: #4CAF50;
+  color: white;
+  padding: 1.5rem 2rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+header h1 {
+  margin-bottom: 0.5rem;
+}
+
+nav {
+  display: flex;
+  gap: 1rem;
+  flex-direction: row-reverse
+}
+
+nav button {
+  background-color: #fff;
+  border: none;
+  color: #333;
+  padding: 0.8rem 1.5rem;
+  font-size: 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.2s;
+}
+
+nav button:hover {
+  background-color: #f0f0f0;
+  transform: scale(1.05);
+}
+
+nav button:focus {
+  outline: 2px solid #4CAF50;
+}
+
+main {
+  padding: 2rem;
+  flex-grow: 1;
+  overflow-y: auto;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+li {
+  background-color: #fff;
+  margin: 0.5rem 0;
+  padding: 1rem;
+  border-radius: 5px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+form {
+  margin-top: 0.5rem;
+  display: flex;
+  flex-direction: column;
+}
+
+form input {
+  padding: 0.8rem;
+  margin-bottom: 0.1rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+form button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 1rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+form button:hover {
+  background-color: #45a049;
+}
+
+.item {
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 1rem;
+  margin: 0.5rem 0;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.item h3 {
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+  color: #333;
+}
+
+.item p {
+  margin: 0.2rem 0;
+  font-size: 0.95rem;
+}
+
+.item a {
+  color: #4CAF50;
+  text-decoration: none;
+}
+
+.item a:hover {
+  text-decoration: underline;
+}
+
+
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  nav {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  main {
+    padding: 1.5rem;
+  }
+
+  .item {
+    padding: 0.8rem;
+  }
+}
+
+#add-product-btn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+#add-product-btn:hover {
+  background-color: #45a049;
+}
+
+a {
+  text-decoration: none; /* Remove the underline */
+  color: #4CAF50; /* Optional: keeps the color for the email link */
+}
+
+a:hover {
+  text-decoration: underline; /* Optional: underline on hover if you want */
+}
+
