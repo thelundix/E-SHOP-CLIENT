@@ -9,7 +9,7 @@ Frontend-applikationen erbjuder följande funktioner:
 - Visa lista med **leverantörer**
 - Visa lista med **produkter**
 - Visa lista med **kunder**
-- **Lägg till nya produkter** via ett formulär (utan bild)
+- **Lägg till nya produkter** via ett formulär (utan bild) funktionen hittas längst ner på produkt sidan via ett knapptryck "Add New Product".
 - Navigera mellan sidor via en **responsiv meny**
 
 ## 🧱 Teknisk struktur
