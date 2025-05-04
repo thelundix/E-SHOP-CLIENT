@@ -24,7 +24,7 @@ Frontend-applikationen erbjuder följande funktioner:
 
 1. Klona detta repo:
    ```bash
-   git clone https://github.com/ditt-användarnamn/e-shop-klient.git
+   git clone https://github.com/thelundix/E-SHOP-CLIENT.git
 Öppna projektet i din kodeditor
 
 Kör backend-applikationen (från C#-kursen)
