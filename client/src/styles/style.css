@@ -164,11 +164,11 @@ form button:hover {
 }
 
 a {
-  text-decoration: none; /* Remove the underline */
-  color: #4CAF50; /* Optional: keeps the color for the email link */
+  text-decoration: none; 
+  color: #4CAF50; 
 }
 
 a:hover {
-  text-decoration: underline; /* Optional: underline on hover if you want */
+  text-decoration: underline;
 }
 
