@@ -3,9 +3,7 @@ import { fetchData } from '../../api/api.js';
 
 export async function renderCustomers() {
   const container = document.getElementById('main-content');
-
-
-
+  
   try {
     const customers = await fetchData('customers');
     
