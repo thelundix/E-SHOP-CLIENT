@@ -27,7 +27,7 @@ Frontend-applikationen erbjuder följande funktioner:
    git clone https://github.com/thelundix/E-SHOP-CLIENT.git
 Öppna projektet i din kodeditor
 
-Kör backend-applikationen (från C#-kursen)
+Kör backend-applikationen (från C#-kursen) med dotnet run
 
 Starta index.html i din webbläsare (du kan använda en liveserver som t.ex. Live Server i VS Code)
 
